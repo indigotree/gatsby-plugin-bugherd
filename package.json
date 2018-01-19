@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-plugin-bugherd",
+  "version": "1.0.0",
+  "description": "Add Bugherd to your Gatsby website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/indigotree/gatsby-plugin-bugherd",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/indigotree/gatsby-plugin-bugherd.git"
+  },
+  "author": {
+    "name": "Indigo Tree",
+    "email": "helloworld@indigotree.co.uk",
+    "url": "https://indigotree.co.uk"
+  },
+  "license": "MIT"
+}
